@@ -1,5 +1,10 @@
 # Dramatron
 
+## Abstract
+Developing script-writing language models for movie companies using the concept of Dramatron. 
+
+This research is temporarily paused due to insufficient resources and participants.
+
 <img src="dramatron-animation.gif" />
 
 ## Try Dramatron
