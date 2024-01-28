@@ -3,7 +3,7 @@
 ## Abstract
 Developing script-writing language models for movie companies using the concept of Dramatron. 
 
-This research is temporarily paused due to insufficient resources and participants.
+NOTE: This research is temporarily paused due to insufficient resources and participants.
 
 ## Concept
 
