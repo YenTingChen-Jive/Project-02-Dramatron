@@ -5,6 +5,8 @@ Developing script-writing language models for movie companies using the concept 
 
 This research is temporarily paused due to insufficient resources and participants.
 
+## Concept
+
 <img src="dramatron-animation.gif" />
 
 ## Try Dramatron
