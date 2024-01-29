@@ -1,4 +1,4 @@
-# Dramatron
+# Dramatron-Inspired Script-Writing Language Model
 
 ## Abstract
 Developing script-writing language models for movie companies using the concept of Dramatron. 
